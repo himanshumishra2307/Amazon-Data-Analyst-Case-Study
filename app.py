@@ -101,7 +101,7 @@ if f.empty:
 # ---------------------------------------------------------------
 # 3. HEADER + KPIs
 # ---------------------------------------------------------------
-st.title("📦 Amazon Marketplace Analytics")
+st.title("Amazon Marketplace Analytics")
 st.caption("Category breadth, membership ROI and return-rate analytics · US marketplace · cleaned with pandas, queried in PostgreSQL")
 
 total_orders = len(f)
